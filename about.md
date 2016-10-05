@@ -1,117 +1,43 @@
 ---
 layout: page
-title : About
+title : About Me
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
-<br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Posting</strong>
-  </div>
-<p>  <div class="manual-content">
+# My Background 
 
-      - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
-      - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <pre>---
-layout: post | default | page
-title:  String<span class="hint"> Post Title</span>
-date:   Time Stamp
-categories: String | Array of Strings<span class="hint"> Category / Categories </span>
----</pre>
-      </div>
-      <div class="example">
+I am from [Pilot Mountain, North Carolina](https://goo.gl/maps/Rd9FxrRk7rJ2)
+It is a small town in the Piedmont region of North Carolina. I was an active 
+member of the music community as I was a student in piano for 10 years while 
+also being a member of the high school band as a trumpet player. 
 
-        <pre>---
-layout: post
-title:  "The One with the Blackout"
-date:   2016-03-30 19:45:31 +0530
-categories: ["life", "friends"]
----</pre>
-      </div>
+I enrolled at High Point University in the fall of 2011 for my undergraduate 
+degree where I focused on English Literature but continued my music by playing 
+in the university band and pep band for the entirity of my education. I was also
+a member of Sigma Tau Delta which was an English Honor Society and served as 
+President for my Junior and Senior years.
 
+I enrolled at the University of North Carolina at Chapel Hill in the fall of 
+2015 for my masters degree in library science.
 
-  </div>
-</p>
-</div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Create Pages</strong>
-  </div>
-<p>  <div class="manual-content">
+I currently reside in [Chapel Hill,North Carolina](https://goo.gl/maps/EThrhJAdWMP2).
 
-      - Create a .md file in the root directory.<br>
-      - Name the file with the desired page link name.<br>  <code>about.md</code><br><code>design.md</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-        <pre>---
-layout: page
-title: String <span class="hint">Title of the webpage</span>
-permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span>
----</pre>
-      </div>
-      <div class="example">
+# My Academics 
 
-        <pre>---
-layout: page
-title:  "Science"
-permalink:   /science/
-tagline : "Humanity is overrated."
----</pre>
-      </div>
+<img src="https://www.oclc.org/content/dam/oclc/member-stories/images/logos/high_point_logo.png"
+alt="High Point Logo" style="width:403px;height:170px;">
 
+My undergraduate degree was obtained from High Point University in 2015.
+I received a Bachelor's of Arts in English Literature.
 
-  </div>
-</p>
-</div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Create Archives/ Category Pages</strong><br>
-</div><br>
-<div class="archiveIntro">
-  <p>
-    Introducing <strong>Archive Pages</strong>.<br></p>
-  <span class="archive-intro">  You can display a list of all the post corresponding to a particular category on a standalone Page using the <code>'archive'</code> layout.
-</span>
-</div>
-<br>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/UNC_Chapel_Hill_Logo.svg/640px-UNC_Chapel_Hill_Logo.svg.png" 
+alt="UNC Chapel Hill Logo" style="width:403px;height:110px;">
+ 
+I am currently a second year Masters of Library Science student studying at 
+the University of North Carolina Chapel Hill.
 
-<p>  <div class="manual-content">
+# My Career Aspirations
 
-      - Create a .md file in the root directory.<br>
-      - Name the file. Preferred name will be the name of the category<br>  <code>life.md</code><br>
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.
-      <div class="example">
-        <span class='manual'>FORMAT</span><BR>
-    <pre>---
-layout: archive<span class="hint"> Archive Page Layout</span>
-title: String <span class="hint">Title of the webpage</span>
-permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint"> Tagline for the page</span>
-category : String <span class="hint"> Name of the category of which the page will show posts.</span>
----</pre>
-      </div>
-      <div class="example">
-
-        <pre>---
-layout: archive
-title:  "Design"
-permalink : "Design"
-category: "design"
-tagline: "It's all about perception."
----</pre>
-    </div><br>
-  </div>
-</p>
-</div>
+I'm currently aiming to find work in a technical services department in a 
+library primarily within an academic library. I also have an interest for 
+working within an archive or special collection.
