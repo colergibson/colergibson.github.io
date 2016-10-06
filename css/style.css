@@ -12,8 +12,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
-  color: #D9B310;
-  background-color: #0B3C5D;
+  color: #33cc33;
+  background-color: #000000;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -66,24 +66,24 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #328CC1 !important;
+  color: #33cc33 !important;
   text-decoration: none; }
   a:visited {
     color: #1756a9; }
   a:hover {
-    color: black !important;
-    border-bottom: 1px dotted black; }
+    color: #33cc33 !important;
+    border-bottom: 1px dotted #33cc33; }
   a.page-link:hover {
     color: #111;
     border-bottom: 1px dotted black; }
   a.postLink {
-    color: #328CC1 !important; }
+    color: #33cc33 !important; }
     a.postLink:hover {
       border-bottom: 1px dotted black; }
     a.postLink:visited {
       color: "crimson" !important; }
   a.post-title-link {
-    color: #328CC1 !important; }
+    color: #33cc33 !important; }
     a.post-title-link:hover {
       border-bottom: 1px dotted black !important; }
     a.post-title-link:visited {
@@ -108,8 +108,8 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  color:#33cc33;
-  background-color: #000000; }
+  color:#000000;
+  background-color: #ffffff; }
 
 code {
   padding: 1px 5px; }
@@ -213,7 +213,7 @@ pre {
 
 .postDate {
   float: left;
-  color: #D9B310;
+  color: #33cc33;
   text-transform: uppercase;
   font-family: "Libre Baskerville";
   font-size: 16px;
@@ -248,7 +248,7 @@ pre {
   font-weight: 500;
   margin-top: 1em; }
   .site-title, .site-title:visited {
-    color: #328CC1; }
+    color: #33cc33; }
 
 .site-description {
   font-size: 14px;
@@ -261,7 +261,7 @@ pre {
   padding-right: 2em; }
 
 .site-navigation {
-  color: #D9B310;
+  color: #33cc33;
   text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 2px;
@@ -288,7 +288,7 @@ pre {
   color: #aaaaaa; }
 
 .site-nav .page-link {
-  color: #111;
+  color: #33cc33;
   line-height: 1.5; }
   .site-nav .page-link:not(:last-child) {
     margin-right: 20px; }
@@ -331,7 +331,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #D9B310;
+  border-top: 1px solid #33cc33;
   padding: 30px; }
 
 .footer-heading {
@@ -348,7 +348,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #D9B310;
+  color: #33cc33;
   margin-left: -15px; }
 
 .footer-content {
