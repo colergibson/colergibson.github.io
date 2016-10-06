@@ -24,7 +24,7 @@ I currently reside in [Chapel Hill,North Carolina](https://goo.gl/maps/EThrhJAdW
 
 # My Academics 
 
-<img src="https://www.oclc.org/content/dam/oclc/member-stories/images/logos/high_point_logo.png"
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/HPU_Panthers.png"
 alt="High Point Logo" style="width:403px;height:170px;">
 
 My undergraduate degree was obtained from High Point University in 2015.

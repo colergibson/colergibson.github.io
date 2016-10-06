@@ -6,7 +6,7 @@ permalink: /projects/
 
 This page will be dedicated to any projects that I will complete for INLS 161. 
 
-For now though you I have uploaded two of my assignments that I have completed 
+For now though I have uploaded two of my assignments that I have completed 
 for the programming course I am currently taking.
 
 # Donut Calculator
