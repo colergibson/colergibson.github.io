@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /project/
 ---
 
-This page will be dedicated to any projects that I will complete for INLS 161. 
-
-For now though I have uploaded two of my assignments that I have completed 
-for the programming course I am currently taking.
+# Final Project
+<iframe src="https://colergibson.github.io/assignment6/#/" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 # Donut Calculator
 <iframe src="https://trinket.io/embed/python3/8deb887f30" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
